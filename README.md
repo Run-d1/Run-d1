@@ -87,4 +87,4 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## Key Projects 👇🏼 Explore all projects:** [GitHub Repositories](https://github.com/Run-d1?tab=repositories)
 -->
 
-## Check my Pinned Projects 👇🏼 or Explore all projects from [Here](https://github.com/Run-d1?tab=repositories)
+Check my Pinned Projects 👇🏼 or Explore all projects from [Here](https://github.com/Run-d1?tab=repositories)
