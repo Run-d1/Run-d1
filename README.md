@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -83,6 +85,12 @@ Here are some ideas to get you started:
 
 [![GitHub Portfolio](https://img.shields.io/badge/My_Projects-Click_Here-brightgreen)](https://github.com/yourusername?tab=repositories)
 
+-->
+
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=power-bi&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=power-bi&logoColor=white&style=for-the-badge)
 
 
 ---
