@@ -48,16 +48,16 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## About My Work 👩🏻‍💻
 
+## What I’m Working On 👩🏻‍💻
 -->
 
-## What I’m Working On 👩🏻‍💻
+## Technical Skills 🛠️
 
 <a href="https://github.com/sponsors/Run-d1"><img align="right" width="249.75" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-analysis-sticker.webp"></a>
 
-## Technical Skills 🛠️
-🟣 **Languages**: SQL, Python, HTML, CSS, Javascript
-🟣 **Tools**: Tableau, Power BI, Excel  
-🟣 **Libraries**: Pandas, NumPy, Scikit-learn, PySpark, PyTorch, matplotlib, seaborn
+🟣 **Languages**: SQL, Python, HTML, CSS, Javascript\
+🟣 **Tools**: Tableau, Power BI, Excel\
+🟣 **Libraries**: Pandas, NumPy, Scikit-learn, PySpark, PyTorch, matplotlib, seaborn\
 🟣 **Databases**: MySQL, Microsoft SQL Server
 <!--
 I enjoy diving into raw data, uncovering trends, and transforming them into actionable insights that drive business decisions.
