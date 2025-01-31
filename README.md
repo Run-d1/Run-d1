@@ -2,11 +2,17 @@
 
 ---
 
-
 ```bash
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
 ```
+---
+
+```bash
+Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
+Passionate about **data-driven decision-making**, **business analytics**.
+```
+---
 
 ```bash
 $ whoami  
@@ -29,6 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
@@ -36,8 +43,12 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
+---
+
 ## 🟢 Welcome to the Matrix!  
 ![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
 
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
@@ -45,11 +56,11 @@ Here are some ideas to get you started:
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 
 
+---
+
 
 [![GitHub Portfolio](https://img.shields.io/badge/My_Projects-Click_Here-brightgreen)](https://github.com/yourusername?tab=repositories)
 
-
----
 
 
 ---
