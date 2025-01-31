@@ -1,54 +1,12 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
 
-## Hi, I'm **Rand** 🙋🏻‍♀️
-**Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
+## Hi, I'm **Rand!** 🙋🏻‍♀️\
 
-<!--
-
-```bash
-Data Analyst and Management Information Systems (MIS) student at King Saud University (KSU).
+### 💡 Data Analyst | 🎓 MIS Student at King Saud University (KSU)\
 
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
-```
--->
-<!--
 
-## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
-## Passionate about **data-driven decision-making**, **business analytics**.
-
----
--->
-<!--
----
-
-```bash
-echo "## Hi, I'm \*\*Rand\*\* 🙋🏻‍♀️ a \*\*Data Analyst\*\* with a background in \*\*Management Information Systems (MIS)\*\*."
-echo "## Passionate about \*\*data-driven decision-making\*\*, \*\*business analytics\*\*."
-```
----
-
-echo "## Hi, I'm \*\*Rand\*\* 🙋🏻‍♀️ a \*\*Data Analyst\*\* with a background in \*\*Management Information Systems (MIS)\*\*."
-echo "## Passionate about \*\*data-driven decision-making\*\*, \*\*business analytics\*\*."
-
-```bash
-## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
-## Passionate about **data-driven decision-making**, **business analytics**.
-```
----
-
-```bash
-Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
-Passionate about **data-driven decision-making**, **business analytics**.
-```
----
-
-```bash
-$ whoami  
-👋 Hello! I'm [Your Name], a **Data Analyst** with a background in **Management Information Systems (MIS)**.  
-Passionate about **data-driven decision-making**, **business analytics**, and **ERP systems**.
-```
--->
 
 <!--
 **Run-d1/Run-d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,9 +47,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## **🔍 About Me**
 
 📌 **What I Do:**\
-🔹 Transform raw data into actionable insights\
-🔹 Leverage **Python, SQL, Tableau, and Power BI** for analytics\
-🔹 Optimize business processes using **ERP solutions**
+🔹 Analyze and interpret data to uncover meaningful trends and patterns\
+🔹 Leverage **Python, SQL, Tableau, and Power BI** for analytics and visualization\
+🔹 Optimize business processes by bridging data and decision-making\
 
 <!--
 📌 **Interests:**\
