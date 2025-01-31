@@ -2,14 +2,16 @@
 
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️
-#### **Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
----
+**Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
+
+<!--
 
 ```bash
 Data Analyst and Management Information Systems (MIS) student at King Saud University (KSU).
 
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
 ```
+-->
 <!--
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
