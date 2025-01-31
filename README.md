@@ -1,8 +1,17 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
-```
+---
+
+
+```bash
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
+```
+
+```bash
+$ whoami  
+👋 Hello! I'm [Your Name], a **Data Analyst** with a background in **Management Information Systems (MIS)**.  
+Passionate about **data-driven decision-making**, **business analytics**, and **ERP systems**.
 ```
 
 <!--
@@ -41,12 +50,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-```bash
-$ whoami  
-👋 Hello! I'm [Your Name], a **Data Analyst** with a background in **Management Information Systems (MIS)**.  
-Passionate about **data-driven decision-making**, **business analytics**, and **ERP systems**.
-```
 
 
 ---
