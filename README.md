@@ -1,10 +1,9 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
----
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️
-### **Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
-
+#### **Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
+---
 <!--
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
@@ -78,8 +77,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 -->
-
----
 
 ## **🔍 About Me**
 
