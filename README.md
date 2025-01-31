@@ -3,7 +3,8 @@
 ---
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️
-### Data Analyst
+### **Data Analyst** and **Management Information Systems (MIS)** student at **King Saud University (KSU)**. Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
+
 <!--
 
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
@@ -59,39 +60,24 @@ Here are some ideas to get you started:
 
 <!--
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
 
 ## 🟢 Welcome to the Matrix!  
 ![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
-
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Database-orange)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-
-
----
-
-
-[![GitHub Portfolio](https://img.shields.io/badge/My_Projects-Click_Here-brightgreen)](https://github.com/yourusername?tab=repositories)
-
 -->
 
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=power-bi&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=power-bi&logoColor=white&style=for-the-badge)
+<!--
+# Hi, I'm Monica 👋🏾 👩🏾‍💻
 
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+-->
 
 ---
 
@@ -99,19 +85,14 @@ Here are some ideas to get you started:
 
 📌 **What I Do:**\
 🔹 Transform raw data into actionable insights\
-🔹 Leverage **Python, SQL, and Power BI** for analytics\
+🔹 Leverage **Python, SQL, Tableau, and Power BI** for analytics\
 🔹 Optimize business processes using **ERP solutions**
 
+<!--
 📌 **Interests:**\
 📈 Business Intelligence | 📊 Data Visualization | ⚙️ Process Automation
 
----
-
-## **📊 My GitHub Insights**
-
-\
-\
-
+-->
 
 ---
 
