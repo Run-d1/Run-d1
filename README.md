@@ -48,7 +48,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## 🔍 About Me 
 
 
-📌 **What I Do:**\ 
+📌 **What I Do:**
 <a href="https://github.com/sponsors/Run-d1"><img align="right" width="249.75" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-analysis-sticker.webp"></a>
 
 🔹 Analyze and interpret data to uncover meaningful trends and patterns\
