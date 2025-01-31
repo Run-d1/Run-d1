@@ -1,7 +1,8 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
-## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
+## ```Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
+```
 
 <!--
 **Run-d1/Run-d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
