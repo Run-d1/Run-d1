@@ -6,7 +6,9 @@
 ---
 
 ```bash
-Data Analyst and Management Information Systems (MIS) student at King Saud University (KSU). Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
+Data Analyst and Management Information Systems (MIS) student at King Saud University (KSU).
+
+Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
 ```
 <!--
 
