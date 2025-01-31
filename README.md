@@ -58,7 +58,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 📈 Business Intelligence | 📊 Data Visualization | ⚙️ Process Automation
 
 -->
-
+<!--
 ---
 
 ## **🚀 Key Projects**
@@ -71,8 +71,8 @@ I'm a software engineer who is passionate about making contributing to open-sour
 | **📚 Web Scraping: Books to Scrape** | Extracting & analyzing book data                | Python, BeautifulSoup, Pandas |
 
 🛠 **Explore all projects:** [GitHub Repositories](https://github.com/Run-d1?tab=repositories)
-
 ---
+-->
 <!--
 ## **📬 Connect with Me**
 📩 **Email:** [randaljathlani@gmail.com](mailto\:randaljathlani@gmail.com)
@@ -83,5 +83,8 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 -->
 
+<!--
+## Key Projects 👇🏼 Explore all projects:** [GitHub Repositories](https://github.com/Run-d1?tab=repositories)
+-->
 
-## Key Projects 👇🏼
+## Check my Pinned Projects 👇🏼 or Explore all projects from [Here](https://github.com/Run-d1?tab=repositories)
