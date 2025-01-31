@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
+
+
+[![GitHub Portfolio](https://img.shields.io/badge/My_Projects-Click_Here-brightgreen)](https://github.com/yourusername?tab=repositories)
