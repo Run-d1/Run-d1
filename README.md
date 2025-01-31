@@ -2,6 +2,20 @@
 
 ---
 
+## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
+## Passionate about **data-driven decision-making**, **business analytics**.
+
+---
+
+```bash
+echo "## Hi, I'm \*\*Rand\*\* 🙋🏻‍♀️ a \*\*Data Analyst\*\* with a background in \*\*Management Information Systems (MIS)\*\*."
+echo "## Passionate about \*\*data-driven decision-making\*\*, \*\*business analytics\*\*."
+```
+---
+
+echo "## Hi, I'm \*\*Rand\*\* 🙋🏻‍♀️ a \*\*Data Analyst\*\* with a background in \*\*Management Information Systems (MIS)\*\*."
+echo "## Passionate about \*\*data-driven decision-making\*\*, \*\*business analytics\*\*."
+
 ```bash
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
