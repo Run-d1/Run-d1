@@ -3,7 +3,6 @@
 
 ## Hi, I'm **Rand!** 🙋🏻‍♀️ 
 ### 💡 Data Analyst | 🎓 MIS Student at King Saud University (KSU)
-
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
 
 
@@ -42,13 +41,17 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 -->
+<!--
+## **🔍 About Me**  <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+-->
 
-## **🔍 About Me**
+## 🔍 About Me <a href="https://github.com/sponsors/Run-d1"><img align="right" width="150" height="150" src="https://giphy.com/gifs/data-analysis-ML-DataScience-jF5K7vrrjOljE2grrX"></a>
+
 
 📌 **What I Do:**\
 🔹 Analyze and interpret data to uncover meaningful trends and patterns\
 🔹 Leverage **Python, SQL, Tableau, and Power BI** for analytics and visualization\
-🔹 Optimize business processes by bridging data and decision-making\
+🔹 Optimize business processes by bridging data and decision-making
 
 <!--
 📌 **Interests:**\
@@ -56,7 +59,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 -->
 
-<!--
 ---
 
 ## **🚀 Key Projects**
@@ -71,7 +73,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 🛠 **Explore all projects:** [GitHub Repositories](https://github.com/Run-d1?tab=repositories)
 
 ---
-
+<!--
 ## **📬 Connect with Me**
 📩 **Email:** [randaljathlani@gmail.com](mailto\:randaljathlani@gmail.com)
 
