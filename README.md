@@ -2,13 +2,15 @@
 
 ---
 
+## Hi, I'm **Rand** 🙋🏻‍♀️
+### Data Analyst
+<!--
+
 ## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
 
 ---
-
-Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
-Passionate about **data-driven decision-making**, **business analytics**.
+-->
 <!--
 ---
 
