@@ -2,7 +2,7 @@
 
 
 ## Hi, I'm **Rand!** 🙋🏻‍♀️ 
-### 💡 Data Analyst | 🎓 MIS Student at King Saud University (KSU)
+### 💡 Data Analyst | 🎓 Senior MIS Student at King Saud University (KSU)
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
 
 
@@ -89,4 +89,4 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## Key Projects 👇🏼 Explore all projects:** [GitHub Repositories](https://github.com/Run-d1?tab=repositories)
 -->
 
-Check The Pinned Projects 👇🏼 or Explore All My Projects [Here](https://github.com/Run-d1?tab=repositories)
+**Check The Pinned Projects 👇🏼 or Explore All My Projects [Here](https://github.com/Run-d1?tab=repositories) **
