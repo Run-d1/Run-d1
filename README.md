@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 🟢 Welcome to the Matrix!  
+![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
