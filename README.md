@@ -1,8 +1,7 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
 
-## Hi, I'm **Rand!** 🙋🏻‍♀️ \
-
+## Hi, I'm **Rand!** 🙋🏻‍♀️ 
 ### 💡 Data Analyst | 🎓 MIS Student at King Saud University (KSU)
 
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
