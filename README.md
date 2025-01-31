@@ -1,6 +1,7 @@
 # **📊 Data-Driven Mindset | Insights Through Analytics**
 
-## ```Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
+```
+## Hi, I'm **Rand** 🙋🏻‍♀️ a **Data Analyst** with a background in **Management Information Systems (MIS)**.
 ## Passionate about **data-driven decision-making**, **business analytics**.
 ```
 
