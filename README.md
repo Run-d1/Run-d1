@@ -97,6 +97,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 -->
 
+<!--
 ---
 
 ## **🚀 Key Projects**
@@ -119,3 +120,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 💡 **Fun Fact:** Data tells stories – my job is to make sure they are heard!
 
+-->
+
+
+## ** Key Projects** 👇🏼
