@@ -45,7 +45,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## **🔍 About Me**  <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 -->
 
-## 🔍 About Me <a href="https://github.com/sponsors/Run-d1"><img align="right" width="150" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-doesnt-lie.gif"></a>
+## 🔍 About Me <a href="https://github.com/sponsors/Run-d1"><img align="right" width="150" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-analysis-sticker.webp"></a>
 
 
 📌 **What I Do:**\
