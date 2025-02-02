@@ -2,7 +2,7 @@
 
 
 ## Hi, I'm **Rand!** 🙋🏻‍♀️ 
-### 💡 Data Analyst | 🎓 Senior MIS Student at King Saud University (KSU)
+### 💡 Data Analyst | 🎓 Senior Management Information Systems (MIS) Student at King Saud University
 Passionate about transforming raw data into actionable insights that optimize business processes and translating complex data into meaningful business recommendations.
 
 
@@ -55,10 +55,19 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 <a href="https://github.com/sponsors/Run-d1"><img align="right" width="249.75" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-analysis-sticker.webp"></a>
 
+🟣
+🟣
+🟣
+🟣
+
+<!--
 🟣 **Languages**: SQL, Python, HTML, CSS, Javascript\
 🟣 **Tools**: Tableau, Power BI, Excel\
 🟣 **Libraries**: Pandas, NumPy, Scikit-learn, PySpark, PyTorch, matplotlib, seaborn\
 🟣 **Databases**: MySQL, Microsoft SQL Server
+-->
+
+
 <!--
 I enjoy diving into raw data, uncovering trends, and transforming them into actionable insights that drive business decisions.
 
