@@ -55,9 +55,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 <a href="https://github.com/sponsors/Run-d1"><img align="right" width="249.75" height="150" src="https://github.com/Run-d1/Run-d1/blob/main/data-analysis-sticker.webp"></a>
 
-🟣 **Programming Languages:** Python, SQL, HTML, CSS, JavaScript, Solidity
-🟣 **Data Gathering:** Web Scraping (BeautifulSoup), APIs
-🟣 **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Pandas, PySpark, Matplotlib, Seaborn, Power BI (Power Query), Tableau
+🟣 **Programming Languages:** Python, SQL, HTML, CSS, JavaScript, Solidity\
+🟣 **Data Gathering:** Web Scraping (BeautifulSoup), APIs\
+🟣 **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Pandas, PySpark, Matplotlib, Seaborn, Power BI (Power Query), Tableau\
 🟣 **Machine Learning & Deep Learning:** NumPy, Scikit-learn, PyTorch
 
 
