@@ -57,7 +57,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 🟣 **Programming Languages:** Python, SQL, HTML, CSS, JavaScript, Solidity\
 🟣 **Data Gathering:** Web Scraping (BeautifulSoup), APIs\
-🟣 **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Pandas, PySpark, Matplotlib, Seaborn, Power BI (Power Query), Tableau\
+🟣 **Data Analysis & Visualization:** Pandas, PySpark, Matplotlib, Seaborn, Power BI (Power Query), Tableau\
 🟣 **Machine Learning & Deep Learning:** NumPy, Scikit-learn, PyTorch
 
 
